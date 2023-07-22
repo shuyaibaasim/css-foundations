@@ -1,0 +1,16 @@
+.container {
+ background-color: rgb(205, 127, 143);
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#id{
+    color: blue;
+    font-size: 36px;
+}
+.adjust-font-size{
+    font-size: 24px;
+}
+
+#Understanding{
+    background-color: rgb(143, 196, 90);
+    font-weight: bold;
+}
